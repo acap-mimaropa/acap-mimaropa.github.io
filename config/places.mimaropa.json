@@ -1,0 +1,103 @@
+{
+  "region": "MIMAROPA",
+  "by_province": [
+    {
+      "name": "Marinduque",
+      "municipalities": ["Boac", "Buenavista", "Gasan", "Mogpog", "Santa Cruz", "Torrijos"]
+    },
+    {
+      "name": "Occidental Mindoro",
+      "municipalities": ["Abra de Ilog", "Calintaan", "Looc", "Lubang", "Magsaysay", "Mamburao", "Paluan", "Rizal", "Sablayan", "San Jose", "Santa Cruz"]
+    },
+    {
+      "name": "Oriental Mindoro",
+      "municipalities": ["Baco", "Bongabong", "Bulalacao", "Calapan City", "Gloria", "Mansalay", "Naujan", "Pinamalayan", "Pola", "Puerto Galera", "Roxas", "San Teodoro", "Socorro", "Victoria"]
+    },
+    {
+      "name": "Palawan",
+      "municipalities": ["Aborlan", "Agutaya", "Araceli", "Balabac", "Bataraza", "Brooke's Point", "Busuanga", "Cagayancillo", "Coron", "Culion", "Cuyo", "Dumaran", "El Nido", "Kalayaan", "Linapacan", "Magsaysay", "Narra", "Puerto Princesa City", "Quezon", "Rizal", "Roxas", "San Vicente", "Sofronio Española", "Taytay"]
+    },
+    {
+      "name": "Romblon",
+      "municipalities": ["Alcantara", "Banton", "Cajidiocan", "Calatrava", "Concepcion", "Corcuera", "Ferrol", "Looc", "Magdiwang", "Odiongan", "Romblon", "San Agustin", "San Andres", "San Fernando", "San Jose", "Santa Fe", "Santa Maria"]
+    }
+  ],
+  "municipalities": {
+    "Boac": [],
+    "Buenavista (Marinduque)": [],
+    "Gasan": [],
+    "Mogpog": [],
+    "Santa Cruz (Marinduque)": [],
+    "Torrijos": [],
+
+    "Abra de Ilog": [],
+    "Calintaan": [],
+    "Looc (Occidental Mindoro)": [],
+    "Lubang": [],
+    "Magsaysay (Occidental Mindoro)": [],
+    "Mamburao": [],
+    "Paluan": [],
+    "Rizal (Occidental Mindoro)": [],
+    "Sablayan": [],
+    "San Jose (Occidental Mindoro)": [],
+    "Santa Cruz (Occidental Mindoro)": [],
+
+    "Baco": [],
+    "Bongabong": [],
+    "Bulalacao": [],
+    "Calapan City": [],
+    "Gloria": [],
+    "Mansalay": [],
+    "Naujan": [],
+    "Pinamalayan": [],
+    "Pola": [],
+    "Puerto Galera": [],
+    "Roxas (Oriental Mindoro)": [],
+    "San Teodoro": [],
+    "Socorro": [],
+    "Victoria": [],
+
+    "Aborlan": [],
+    "Agutaya": [],
+    "Araceli": [],
+    "Balabac": [],
+    "Bataraza": [],
+    "Brooke's Point": [],
+    "Busuanga": [],
+    "Cagayancillo": [],
+    "Coron": [],
+    "Culion": [],
+    "Cuyo": [],
+    "Dumaran": [],
+    "El Nido": [],
+    "Kalayaan": [],
+    "Linapacan": [],
+    "Magsaysay (Palawan)": [],
+    "Narra": [],
+    "Puerto Princesa City": [],
+    "Quezon (Palawan)": [],
+    "Rizal (Palawan)": [],
+    "Roxas (Palawan)": [],
+    "San Vicente": [],
+    "Sofronio Española": [],
+    "Taytay": [],
+
+    "Alcantara": [],
+    "Banton": [],
+    "Cajidiocan": [],
+    "Calatrava": [],
+    "Concepcion (Romblon)": [],
+    "Corcuera": [],
+    "Ferrol": [],
+    "Looc (Romblon)": [],
+    "Magdiwang": [],
+    "Odiongan": [],
+    "Romblon (Municipality)": [],
+    "San Agustin (Romblon)": [],
+    "San Andres (Romblon)": [],
+    "San Fernando (Romblon)": [],
+    "San Jose (Romblon)": [],
+    "Santa Fe (Romblon)": [],
+    "Santa Maria (Romblon)": []
+  }
+}
