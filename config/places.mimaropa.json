@@ -11,7 +11,7 @@
     },
     {
       "name": "Oriental Mindoro",
-      "municipalities": ["Baco", "Bongabong", "Bulalacao", "City of Calapan", "Gloria", "Mansalay", "Naujan", "Pinamalayan", "Pola", "Puerto Galera", "Roxas", "San Teodoro", "Socorro", "Victoria"]
+      "municipalities": ["Baco", "Bongabong", "Bulalacao", "Calapan City", "Gloria", "Mansalay", "Naujan", "Pinamalayan", "Pola", "Puerto Galera", "Roxas", "San Teodoro", "Socorro", "Victoria"]
     },
     {
       "name": "Palawan",
@@ -45,7 +45,7 @@
     "Baco": [],
     "Bongabong": [],
     "Bulalacao": [],
-    "City of Calapan": [],
+    "Calapan City": [],
     "Gloria": [],
     "Mansalay": [],
     "Naujan": [],
