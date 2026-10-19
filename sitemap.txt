@@ -6,5 +6,3 @@ https://acap-mimaropa.github.io/bulletins/
 https://acap-mimaropa.github.io/bulletins/weather/
 https://acap-mimaropa.github.io/bulletins/seasonal-outlook/
 https://acap-mimaropa.github.io/bulletins/special-weather-forecast/
-https://acap-mimaropa.github.io/admin/login/
-https://acap-mimaropa.github.io/superadmin/login/
